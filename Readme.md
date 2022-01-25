@@ -16,13 +16,3 @@ En ésperant que vous pourrez répondre favorablement à notre demande,
 Cordialement
 Nicole.
 ```
-
-### Traduction en Use Cases
-
-|#| En tant que... | je veux... | dans le but de (si besoin)|
-|---|---|---|---|
-|1|Visiteur|accèder à la liste des promos|...|
-
-### Suivi de projet
-
-Exemple dans [le Projet de ce repo](https://github.com/O-clock-FS-JS/Trombin-o-clock/projects/1) !
